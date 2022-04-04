@@ -1,9 +1,9 @@
 import React from "react";
 
-const Pizza = () => {
+const Pizza2 = () => {
   return (
     <>
-      <h1>This is the Pizza Component</h1>
+      <h1>This is the Pizza2 Component</h1>
       <h1>
         lgsdfbjklgfjkdsahbgdfsaljkhbgsdflahkjblgksjdahbfgsldajkfblkjbgsdalkjbgsadkljbgadsfgasdkjlbgkasdjlbkljbagsdbjklgdsalkjbgdasgdskjblalkjbgdsa
       </h1>
@@ -11,4 +11,4 @@ const Pizza = () => {
   );
 };
 
-export default Pizza;
+export default Pizza2;
