@@ -4,6 +4,7 @@ import Home from "./pages/Home.jsx";
 import Pizza from "./pages/Pizza.jsx";
 import Haylee from "./pages/Haylee.jsx";
 import Haylee from './pages/Haylee';
+import Hayleetwo from './pages/Hayleetwo';
 
 const App = () => {
     return (
@@ -11,7 +12,8 @@ const App = () => {
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/Pizza" element={<Pizza />}/>
-                <Route path="/Haylee" element={<Haylee />}/>
+                <Route path="/Haylee" element={<Haylee />} />
+                <Route path="/Hayleetwo" element={<Hayleetwo />} />
             </Routes>
         </BrowserRouter>
     )
