@@ -4,6 +4,7 @@ import Home from "./pages/Home.jsx";
 import Pizza from "./pages/Pizza.jsx";
 import Haylee from "./pages/Haylee.jsx";
 import Haylee from './pages/Haylee';
+import Pizza2 from "./pages/Pizza2.jsx";
 
 const App = () => {
     return (
